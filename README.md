@@ -1,4 +1,3 @@
-```markdown
 # 🖥️ Fine Dust Measurement README
 
 <br>
@@ -355,5 +354,3 @@ During the initial setup for this team project, I realized the importance of sys
 
 ### 🐬Ryu Tae-an
 From this Industrial AI Jetson Nano class, the most interesting takeaway was understanding how indoor air purifiers work. It was meaningful that we could measure fine dust on our own, and I feel like we created a basic yet functional air purifier concept. We even built a feature that sends automatic alerts to our phones, and I’d like to install this system in my own room someday. By measuring my room’s fine dust, I’d know when to ventilate—especially while cooking—and if a fire occurs, I’d be alerted even when I’m away. This experience truly made me feel like a developer, and I hope it leads to future career opportunities in the air quality field.
-
-```
